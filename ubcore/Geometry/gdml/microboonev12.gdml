@@ -1143,7 +1143,7 @@
     <subtraction name="Frame0">
       <first ref="FrameA"/>
       <second ref="FrameB"/>
-      <position name="posFrameSubtraction" x="0" y="0" z="0"/>
+      <position name="posFrameSubtraction" unit="cm" x="0" y="0" z="0"/>
     </subtraction>
     <union name="CrossBeam">
       <first ref="CrossBeamA"/>
